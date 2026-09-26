@@ -43,7 +43,7 @@
         },
         "MEOW_API_KEY": {
             "description": "API Key for the Meow/Yuki Music Streaming API.",
-            "value": "",
+            "value": "ANNIE-315a182e51312617de506357",
             "required": false
         },
         "OWNER_ID": {
